@@ -1,2 +1,2 @@
-# NAVIGATION-BAR
-Navigation to healp navigate through webpage
+# Navigation bar
+Navigation to help navigate through webpage
